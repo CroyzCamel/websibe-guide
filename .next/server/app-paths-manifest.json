@@ -1,0 +1,6 @@
+{
+  "/react/page": "app/react/page.js",
+  "/react-native/page": "app/react-native/page.js",
+  "/jetpack-compose/page": "app/jetpack-compose/page.js",
+  "/page": "app/page.js"
+}
